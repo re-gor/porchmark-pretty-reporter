@@ -1,4 +1,9 @@
+# reporter merged to porchmark repository
+
+https://github.com/mutantcornholio/porchmark/pull/17
+
 # porchmark-pretty-reporter
+
 Reporter with simple charts and other stuff
 
 Could be used as a plugin for porchmark or as a standalone binary
